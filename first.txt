@@ -9,5 +9,6 @@ function errorPopup(name){
 };
 Test2('Sam');
 Thanks!
-
 This is for an additional branch.  
+
+This is a test from VS Code.
