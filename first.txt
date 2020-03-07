@@ -4,6 +4,10 @@ Line 4 has a function
 function Test(){
   alert('test!');
 };
+function Test2(name){
+  alert('Whoops!  You broke something, ' + name);
+};
+Test2('Sam');
 Thanks!
 
 This is for an additional branch.  
